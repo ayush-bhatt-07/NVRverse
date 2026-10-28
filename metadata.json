@@ -1,0 +1,6 @@
+{
+  "name": "NVRVerse — Interactive 3D NVR Engineering Simulator",
+  "description": "An interactive 3D virtual engineering laboratory for Network Video Recorders, packet simulation, motherboard architecture, and network topology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
